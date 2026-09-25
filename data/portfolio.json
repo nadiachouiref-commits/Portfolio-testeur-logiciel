@@ -2,19 +2,38 @@
     {
         "image": "image1.png",
         "title": "Booki",
-        "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
-        "link": "#"
+        "text": "Intégration responsive d'une plateforme de réservation d'hébergements et d'activités, en HTML/CSS.",
+        "link": "https://github.com/nadiachouiref-commits/Booki"
     },
     {
-        "image": "image2.png",
-        "title": "Mon Vieux grimoire",
-        "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
-        "link": "#"
+        "image": "image1.png",
+        "title": "Sophie Bluel",
+        "text": "Site dynamique connecté à une API pour une architecte d'intérieur, avec authentification, filtres et gestion de contenu (CRUD).",
+        "link": "https://github.com/nadiachouiref-commits/sophiebluel.git"
     },
     {
         "image": "image3.png",
         "title": "Kasa",
-        "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
-        "link": "#"
+        "text": "Application React de location d'appartements avec récupération de données via API, composants réutilisables et tests unitaires Vitest.",
+        "link": "https://github.com/nadiachouiref-commits/Kasa"
+    },
+    {
+        "image": "image2.png",
+        "title": "724 Events",
+        "text": "Campagne de tests complète sur un site événementiel : cahier de recette, tests exploratoires, API (Postman), suivi des anomalies sur Jira.",
+        "link": "https://github.com/nadiachouiref-commits/724events"
+    },
+    {
+        "image": "image3.png",
+        "title": "Eco Bliss Bath",
+        "text": "Automatisation de tests fonctionnels sur une boutique en ligne avec Cypress : scénarios critiques, tests API, test de sécurité XSS.",
+        "link": "https://github.com/nadiachouiref-commits/eco-bliss-bath-tests-v2"
+    },
+
+    {
+        "image": "image2.png",
+        "title": "TOMSEN",
+        "text": "Définition de la stratégie de test d'un produit fintech de gestion financière, en contexte Agile, avant sa mise en production.",
+        "link": "https://github.com/nadiachouiref-commits/TOMSEN"
     }
 ]
