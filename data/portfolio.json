@@ -6,7 +6,7 @@
         "link": "https://github.com/nadiachouiref-commits/Booki"
     },
     {
-        "image": "image1.png",
+        "image": "image4.png",
         "title": "Sophie Bluel",
         "text": "Site dynamique connecté à une API pour une architecte d'intérieur, avec authentification, filtres et gestion de contenu (CRUD).",
         "link": "https://github.com/nadiachouiref-commits/sophiebluel.git"
@@ -18,20 +18,20 @@
         "link": "https://github.com/nadiachouiref-commits/Kasa"
     },
     {
-        "image": "image2.png",
+        "image": "image5.png",
         "title": "724 Events",
         "text": "Campagne de tests complète sur un site événementiel : cahier de recette, tests exploratoires, API (Postman), suivi des anomalies sur Jira.",
         "link": "https://github.com/nadiachouiref-commits/724events"
     },
     {
-        "image": "image3.png",
+        "image": "image0.png",
         "title": "Eco Bliss Bath",
         "text": "Automatisation de tests fonctionnels sur une boutique en ligne avec Cypress : scénarios critiques, tests API, test de sécurité XSS.",
         "link": "https://github.com/nadiachouiref-commits/eco-bliss-bath-tests-v2"
     },
 
     {
-        "image": "image2.png",
+        "image": "image6.png",
         "title": "TOMSEN",
         "text": "Définition de la stratégie de test d'un produit fintech de gestion financière, en contexte Agile, avant sa mise en production.",
         "link": "https://github.com/nadiachouiref-commits/TOMSEN"
