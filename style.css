@@ -57,9 +57,23 @@
 
 /* skills */
 .skillsText.card {
+    cursor: pointer;
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+}
+.skillsText .card-body {
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+}
+.skillsText .card-text {
+    flex: 1;
+}
+/*.skillsText.card {
     height: 350px;
     cursor: pointer;
-}
+}*/
 .skillsText img {
     width: 100%;
     height: 150px;
@@ -86,6 +100,24 @@
 /* portfolio */
 #portfolio p {
     text-align: center;
+}
+
+/* portfolio */
+#portfolio p {
+    text-align: center;
+}
+.portfolioContent {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+}
+.portfolioContent .card-body {
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+}
+.portfolioContent .card-text {
+    flex: 1;
 }
 
 /* contact */
