@@ -1,37 +1,37 @@
 [
     {
-        "image": "booki.jpg",
+        "image": "booki.webp",
         "title": "Booki",
         "text": "Intégration responsive d'une plateforme de réservation d'hébergements et d'activités, en HTML/CSS.",
         "link": "https://github.com/nadiachouiref-commits/Booki"
     },
     {
-        "image": "sophie-bluel.jpg",
+        "image": "sophie-bluel.webp",
         "title": "Sophie Bluel",
         "text": "Site dynamique connecté à une API pour une architecte d'intérieur, avec authentification, filtres et gestion de contenu (CRUD).",
         "link": "https://github.com/nadiachouiref-commits/sophiebluel.git"
     },
     {
-        "image": "kasa.jpg",
+        "image": "kasa.webp",
         "title": "Kasa",
         "text": "Application React de location d'appartements avec récupération de données via API, composants réutilisables et tests unitaires Vitest.",
         "link": "https://github.com/nadiachouiref-commits/Kasa"
     },
     {
-        "image": "724-events.jpg",
+        "image": "724-events.webp",
         "title": "724 Events",
         "text": "Campagne de tests complète sur un site événementiel : cahier de recette, tests exploratoires, API (Postman), suivi des anomalies sur Jira.",
         "link": "https://github.com/nadiachouiref-commits/724events"
     },
     {
-        "image": "eco-bliss-bath.jpg",
+        "image": "eco-bliss-bath.webp",
         "title": "Eco Bliss Bath",
         "text": "Automatisation de tests fonctionnels sur une boutique en ligne avec Cypress : scénarios critiques, tests API, test de sécurité XSS.",
         "link": "https://github.com/nadiachouiref-commits/eco-bliss-bath-tests-v2"
     },
 
     {
-        "image": "tomsen.jpg",
+        "image": "tomsen.webp",
         "title": "TOMSEN",
         "text": "Définition de la stratégie de test d'un produit fintech de gestion financière, en contexte Agile, avant sa mise en production.",
         "link": "https://github.com/nadiachouiref-commits/TOMSEN"
